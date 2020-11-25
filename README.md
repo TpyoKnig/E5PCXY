@@ -1,6 +1,6 @@
 # Ender 5 Pro to CoreXY Conversion using the LayerFused X301 as a base.
 
-1. [PETG/CF](https://atomicfilament.com/products/carbon-fiber-black-petg-pro) [Struts](https://www.thingiverse.com/thing:3661405) to deal with the cantilevered design of the bed.
+1. [PETG/CF](https://atomicfilament.com/products/carbon-fiber-black-petg-pro) [Struts](https://www.thingiverse.com/thing:3661405) to deal with the cantilevered design of the bed
 2. Relocation of electronics box 
 3. [Buck converter](https://www.amazon.com/gp/product/B07ZMRN1B2) from 24v to 5v 3A
 4. [Raspberry Pi + SD Card for OctoPrint](https://www.amazon.com/gp/product/B07V58CQGR/)
