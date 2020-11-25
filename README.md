@@ -10,6 +10,6 @@
 8. Replaced Landy PSU with a [Meanwell 350w PSU](https://www.amazon.com/gp/product/B07VRK86SP/)
 9. [4x 400mm 2020 extrusion](https://www.amazon.com/gp/product/B085T49MFB)
 10. [Cloned BMG from Amazon](https://www.amazon.com/gp/product/B084Z3MPWW)
-11. [Cloned E3DV6 VolcanoStyle hotend from Zyltech](http://www.zyltech.com/new-volcano-style-hotend-1-75mm-bowden-conversion-kit/)
+11. [Cloned E3DV6 Volcano style hotend from Zyltech](http://www.zyltech.com/new-volcano-style-hotend-1-75mm-bowden-conversion-kit/)
 12. [Microswiss Plated Volcano heatbreak](https://www.amazon.com/gp/product/B06WGRJK1B/)
 13. [Authentic E3Dv6 Volcano block](https://www.amazon.com/gp/product/B07BFYL3KN/)
