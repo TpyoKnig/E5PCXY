@@ -7,7 +7,7 @@
 5. [SKR 1.4 Turbo](https://amzn.to/2SnLvbf)
 6. [4x TMC2209](https://amzn.to/2KP0x5C)
 7. [BLTouch with 2M extension cable](https://www.amazon.com/gp/product/B07FR2LLZP/)
-8. CoreXY conversion printed via the LayerFused X301 Parts:
+8. CoreXY conversion parts printed via the LayerFused X301 Parts:
 - LayerFused Store: 
   * [affiliate link](https://shop.layerfused.com/collections/all-products/products/x301-printed-parts-kit?aff=5)
   * [non-affiliate link](https://shop.layerfused.com/collections/all-products/products/x301-printed-parts-kit)
@@ -59,3 +59,15 @@ The specific videos that deal with the motion system are parts 2-4.
 LayerFused also has [Wiki](https://wiki.layerfused.com/en/home) with a printing [guide](https://wiki.layerfused.com/en/X301/printing-guide).
 
 The [MakersMashup Discord](https://discord.gg/zym4tSjgeR) is also available to talk with other makers or myself.
+
+
+E5PCXY Front
+![](images/E5PCXY_front.jpg)
+E5PCXY Back
+![](images/E5PCXY_back.jpg)
+E5PCXY Left
+![](images/E5PCXY_left.jpg)
+E5PCXY Right
+![](images/E5PCXY_right.jpg)
+E5PCXY Bed Struts:
+![](images/E5PCXY_struts.jpg)
