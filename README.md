@@ -1,6 +1,6 @@
 # Ender 5 Pro to CoreXY Conversion using the LayerFused X301 as a base.
 
-1. [PETG/CF](https://atomicfilament.com/products/carbon-fiber-black-petg-pro) [Struts](https://www.thingiverse.com/thing:3661405) to deal with the cantilevered design
+1. [PETG/CF](https://atomicfilament.com/products/carbon-fiber-black-petg-pro) for the struts
 2. Relocation of electronics box 
 3. [Buck converter](https://www.amazon.com/gp/product/B07ZMRN1B2) from 24v to 5v 3A
 4. [Raspberry Pi + SD Card for OctoPrint](https://www.amazon.com/gp/product/B07V58CQGR/)
@@ -28,7 +28,7 @@
       * [1x - Part Cooling Fan Mount](https://bitbucket.org/makersmashup/x301-models/src/master/STL/Cooling%20Fan%20Mount%20Plate.stl)
       * [1x - Carriage Plate](https://bitbucket.org/makersmashup/x301-models/src/master/STL/Carriage%20Plate%20P3%20Printer.stl)
       * [2x - Carriage Belt Clamps](https://bitbucket.org/makersmashup/x301-models/src/master/STL/Carriage%20Belt%20Clamp.stl)
-      * [1x Carriage Belt Body](https://bitbucket.org/makersmashup/x301-models/src/master/STL/Carriage%20Belt%20Body.stl)
+      * [1x - Carriage Belt Body](https://bitbucket.org/makersmashup/x301-models/src/master/STL/Carriage%20Belt%20Body.stl)
       * [1x - Rear Cable Mount](https://bitbucket.org/makersmashup/x301-models/src/master/STL/Rear%20Cable%20Mount.stl)
 9. Replaced Landy PSU with a [Meanwell 350w PSU](https://www.amazon.com/gp/product/B07VRK86SP/)
 10. [4x 400mm 2020 extrusion](https://www.amazon.com/gp/product/B085T49MFB)
@@ -52,6 +52,7 @@
 26. [3x 350mm MGN12H Linear Rails](https://www.amazon.com/gp/product/B081Q4FHBW/)
 27. [2020 Snap in cable clips](https://www.thingiverse.com/thing:1561292)
 28. [2x High Torque Stepper Motors](https://www.amazon.com/Usongshine-Stepper-17HS4401-Connector-Printer/dp/B07C1MVTZC/)
+29. [Struts](https://www.thingiverse.com/thing:3661405) to deal with the cantilevered design issues with the bed having too much play.
 
 I used the LayerFused X301 build videos as a guide for assembling this and configuring the firmware. The video series is [here on youtube](https://www.youtube.com/watch?v=JwKp_6I6MR4&list=PLyYZUiBHD1QgZ4tn9tMU3Z-l71JyhPW9l).
 
